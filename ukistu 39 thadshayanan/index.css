@@ -1,0 +1,61 @@
+#nav-bar{
+  text-align:center;
+  list-style:none;
+  position: relative;
+}
+.link{
+  color:black;
+}
+#nav-bar > li {
+  display: inline;
+  padding:2px;
+}
+.heading >img{
+  float:left;
+}
+.heading{
+  text-align:center;
+  color:  #4d94ff;
+  font-size: 40px;
+
+}
+.welcome{
+  background-color:lightblue;
+  display:inline-block;
+  text-align:center;
+  border-radius:5px;
+  margin: 5px;
+  position: relative;
+  width:400;
+  margin-left: 200px;
+  margin-bottom: 200px;
+
+
+}
+.course{
+  background-color:lightgray;
+  display:inline-block;
+  text-align:center;
+  border-radius:5px;
+  margin:5px;
+  width: 400;
+  float:left;
+}
+.program{
+  background-color:lightgray;
+  display:inline-block;
+  text-align:center;
+  border-radius:5px;
+  margin:5px;
+  width:400px;
+  float:right;
+}
+.footer >p{
+  left:0;
+  bottom:0;
+  top: 300px;
+  position: relative;
+  background-color:lightblue;
+  text-align: center;
+  padding:4px;
+}
